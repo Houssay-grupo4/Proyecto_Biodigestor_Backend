@@ -13,3 +13,6 @@
 **Comando para crear automáticamente el código que creará la tabla en base de datos**
 
 Cuando hayamos creado la clase que nos corresponderá a cada uno, debemos ingresar el siguiente comando en la mencionada consola por única vez: **add-migration Nombre de la entidad** (ej. Clientes)
+
+Integrantes
+Quimey delgado 
