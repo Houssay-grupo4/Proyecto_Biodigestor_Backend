@@ -16,5 +16,5 @@ Cuando hayamos creado la clase que nos corresponderá a cada uno, debemos ingres
 
 Integrantes
 Quimey delgado 
-Manncuello Roxana
+Mancuello Roxana
 
