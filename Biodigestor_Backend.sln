@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto.Biodigestor", "Proyecto.Biodigestor\Proyecto.Biodigestor.csproj", "{6A0119C6-DAC8-4117-B0AC-C5523E5F80FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A0119C6-DAC8-4117-B0AC-C5523E5F80FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0119C6-DAC8-4117-B0AC-C5523E5F80FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0119C6-DAC8-4117-B0AC-C5523E5F80FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0119C6-DAC8-4117-B0AC-C5523E5F80FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E34F7A-5E6F-45E4-A1D0-CECA418E8D51}
+	EndGlobalSection
+EndGlobal
