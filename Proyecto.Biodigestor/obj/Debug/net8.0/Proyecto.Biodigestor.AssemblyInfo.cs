@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto.Biodigestor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6211b5dfadaa518c76b4d8f9a4c0f59cf7b641d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto.Biodigestor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto.Biodigestor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

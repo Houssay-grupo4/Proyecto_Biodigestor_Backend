@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\OneDrive\\Escritorio\\Programacion\\TSDS - Dr. Houssay\\Segundo Año\\Práctica Profesionalizante\\Biodigestor_Backend\\Proyecto.Biodigestor\\Proyecto.Biodigestor.csproj": {}
+    "D:\\Users\\Usuario\\Desktop\\HOUSSAY SEGUNDO AÑO\\NARCISO\\PROGRAMACION\\EJERCICIOS\\SUBIDOS A GITHUB\\Proyecto_Biodigestor_Backend\\Proyecto.Biodigestor\\Proyecto.Biodigestor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\OneDrive\\Escritorio\\Programacion\\TSDS - Dr. Houssay\\Segundo Año\\Práctica Profesionalizante\\Biodigestor_Backend\\Proyecto.Biodigestor\\Proyecto.Biodigestor.csproj": {
+    "D:\\Users\\Usuario\\Desktop\\HOUSSAY SEGUNDO AÑO\\NARCISO\\PROGRAMACION\\EJERCICIOS\\SUBIDOS A GITHUB\\Proyecto_Biodigestor_Backend\\Proyecto.Biodigestor\\Proyecto.Biodigestor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Escritorio\\Programacion\\TSDS - Dr. Houssay\\Segundo Año\\Práctica Profesionalizante\\Biodigestor_Backend\\Proyecto.Biodigestor\\Proyecto.Biodigestor.csproj",
+        "projectUniqueName": "D:\\Users\\Usuario\\Desktop\\HOUSSAY SEGUNDO AÑO\\NARCISO\\PROGRAMACION\\EJERCICIOS\\SUBIDOS A GITHUB\\Proyecto_Biodigestor_Backend\\Proyecto.Biodigestor\\Proyecto.Biodigestor.csproj",
         "projectName": "Proyecto.Biodigestor",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Escritorio\\Programacion\\TSDS - Dr. Houssay\\Segundo Año\\Práctica Profesionalizante\\Biodigestor_Backend\\Proyecto.Biodigestor\\Proyecto.Biodigestor.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Escritorio\\Programacion\\TSDS - Dr. Houssay\\Segundo Año\\Práctica Profesionalizante\\Biodigestor_Backend\\Proyecto.Biodigestor\\obj\\",
+        "projectPath": "D:\\Users\\Usuario\\Desktop\\HOUSSAY SEGUNDO AÑO\\NARCISO\\PROGRAMACION\\EJERCICIOS\\SUBIDOS A GITHUB\\Proyecto_Biodigestor_Backend\\Proyecto.Biodigestor\\Proyecto.Biodigestor.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Usuario\\Desktop\\HOUSSAY SEGUNDO AÑO\\NARCISO\\PROGRAMACION\\EJERCICIOS\\SUBIDOS A GITHUB\\Proyecto_Biodigestor_Backend\\Proyecto.Biodigestor\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +50,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -54,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -79,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
