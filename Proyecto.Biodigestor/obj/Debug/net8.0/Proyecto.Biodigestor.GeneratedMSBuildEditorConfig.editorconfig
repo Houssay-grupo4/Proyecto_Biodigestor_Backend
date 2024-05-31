@@ -1,19 +1,51 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Proyecto.Biodigestor
 build_property.RootNamespace = Proyecto.Biodigestor
-build_property.ProjectDir = C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Biodigestor_Backend\Proyecto.Biodigestor\
+build_property.ProjectDir = D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\EJERCICIOS\SUBIDOS A GITHUB\Proyecto_Biodigestor_Backend\Proyecto.Biodigestor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Biodigestor_Backend\Proyecto.Biodigestor
+build_property.MSBuildProjectDirectory = D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\EJERCICIOS\SUBIDOS A GITHUB\Proyecto_Biodigestor_Backend\Proyecto.Biodigestor
 build_property._RazorSourceGeneratorDebug = 
+
+[D:/Users/Usuario/Desktop/HOUSSAY SEGUNDO AÑO/NARCISO/PROGRAMACION/EJERCICIOS/SUBIDOS A GITHUB/Proyecto_Biodigestor_Backend/Proyecto.Biodigestor/Views/Provisiones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmlzaW9uZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Usuario/Desktop/HOUSSAY SEGUNDO AÑO/NARCISO/PROGRAMACION/EJERCICIOS/SUBIDOS A GITHUB/Proyecto_Biodigestor_Backend/Proyecto.Biodigestor/Views/Provisiones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmlzaW9uZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Usuario/Desktop/HOUSSAY SEGUNDO AÑO/NARCISO/PROGRAMACION/EJERCICIOS/SUBIDOS A GITHUB/Proyecto_Biodigestor_Backend/Proyecto.Biodigestor/Views/Provisiones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmlzaW9uZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Usuario/Desktop/HOUSSAY SEGUNDO AÑO/NARCISO/PROGRAMACION/EJERCICIOS/SUBIDOS A GITHUB/Proyecto_Biodigestor_Backend/Proyecto.Biodigestor/Views/Provisiones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmlzaW9uZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Usuario/Desktop/HOUSSAY SEGUNDO AÑO/NARCISO/PROGRAMACION/EJERCICIOS/SUBIDOS A GITHUB/Proyecto_Biodigestor_Backend/Proyecto.Biodigestor/Views/Provisiones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmlzaW9uZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Usuario/Desktop/HOUSSAY SEGUNDO AÑO/NARCISO/PROGRAMACION/EJERCICIOS/SUBIDOS A GITHUB/Proyecto_Biodigestor_Backend/Proyecto.Biodigestor/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
